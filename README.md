@@ -9,7 +9,7 @@ I'm André Torquato, I'm a Full Stack developer 👨‍💻, passionate about te
 -  ⚡ Technologies I currently use: Javascript, Angular, Ionic, React, Node, CSS, HTML and sometimes Java;
 - 🌱 I’m currently learning JS improvements
 
-"Just Start" 
+<p align="center">"Just Start"</p>
 
 <p align="center">
     <img
