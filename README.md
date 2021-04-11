@@ -15,12 +15,12 @@ I'm André Torquato, I'm a Full Stack developer 👨‍💻, passionate about te
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=AndreTorquato&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=AndreTorquato&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark"
     />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreTorquato&layout=compact&theme=radical"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreTorquato&layout=compact&theme=github_dark"> 
 </p>
 
 
