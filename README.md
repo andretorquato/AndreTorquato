@@ -1,4 +1,3 @@
-# AndreTorquato
 <p align="center">
     <a href="https://www.linkedin.com/in/andretorquatoo/" target="_blank" align="left">
     <img src="https://res.cloudinary.com/andretorquato/image/upload/v1619373619/readmes/linkedin_ronjde.png" alt="linkedin profile" width="64">
