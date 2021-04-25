@@ -1,14 +1,14 @@
 # AndreTorquato
-[![Linkedin Badge](https://img.shields.io/badge/-andretorquatoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andretorquatoo/)](https://www.linkedin.com/in/andretorquatoo/)
-[![Gmail Badge](https://img.shields.io/badge/-ats.torquato1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ats.torquato1@gmail.com)](mailto:ats.torquato1@gmail.com)
-## Hi 👋, 
-I'm André Torquato, I'm a Full Stack developer 👨‍💻, passionate about technology. I always want to learn a little more.
+<p align="center">
+    <a href="https://www.linkedin.com/in/andretorquatoo/" target="_blank" align="left">
+    <img src="https://res.cloudinary.com/andretorquato/image/upload/v1619373619/readmes/linkedin_ronjde.png" alt="linkedin profile" width="64">
+</a>
+<img src="https://res.cloudinary.com/andretorquato/image/upload/v1619372349/readmes/space_tsyqhy.png">
 
-- 💬 Welcome to my profile. Here you can find some of my projects that I remember putting on Github;
-- 🔭 I’m currently working on JavaScript apps/systems
--  ⚡ Technologies I currently use: Javascript, Angular, Ionic, React, Node, CSS, HTML and sometimes Java;
-- 🌱 I’m currently learning JS improvements
-
+<a href="https://www.instagram.com/andretorquatoo/" target="_blank" align="right">
+    <img src="https://res.cloudinary.com/andretorquato/image/upload/v1619373619/readmes/instagram_g5jldt.png" width="64">
+</a>
+</p>
 <p align="center">"Just Start"</p>
 
 <p align="center">
