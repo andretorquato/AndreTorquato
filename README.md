@@ -7,7 +7,7 @@
     <img src="https://res.cloudinary.com/andretorquato/image/upload/v1619373619/readmes/instagram_g5jldt.png" width="64">
 </a>
 </p>
-<p align="left">
+<p align="center">
     <img
       align="center"
       height="165"
